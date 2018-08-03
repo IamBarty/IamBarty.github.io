@@ -24,5 +24,6 @@ You can add notification, warning and error boxes like this:
 
 ### Warning
 
-**Warning:** This is a warning box. {: .notice}
+**Warning:** This is a warning box.
+{: .notice}
 
