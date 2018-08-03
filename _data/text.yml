@@ -51,7 +51,8 @@ fr: &DEFAULT_FR
   back_to_top: "Retour en haut de page"
   search_placeholder_text: "Entrez votre terme de recherche..."
   powered_by: "Propulsé par"
-  
+fr-FR:
+  <<: *DEFAULT_FR
 en-US:
   <<: *DEFAULT_EN
 en-CA:
