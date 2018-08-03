@@ -86,18 +86,8 @@ defaults:
       share: true
 
 # Site Author
-author:
-  name:
-  picture:
-  email:
-  twitter:
-  links:
-    - title:
-      url:
-      icon:
+author:Baptiste Lecornu
+  links: false
 
 # Footer Links
-footer_links:
-  - title: Feed
-    url: atom.xml
-    icon: fas fa-rss-square
+footer_links: false
