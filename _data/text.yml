@@ -34,7 +34,7 @@ fr: &DEFAULT_FR
   skip_footer: "Sauter au pied de page"
   menu_label: "Menu"
   by: "écrit par"
-  min_read: "temps de lecture"
+  min_read: "min de lecture"
   read_more: "Lire la suite&hellip;"
   categories: "Catégories"
   tags: "Tags"
