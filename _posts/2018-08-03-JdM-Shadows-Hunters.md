@@ -22,15 +22,7 @@ On commence le blog avec un incontournable. Le jeu que j'ai le plus joué et de 
 
 You can add notification, warning and error boxes like this:
 
-{: .box-note}
-**Sans raisons:** Rien de mieux que le métamorphe !
-
 ### Warning
 
-{: .box-warning}
-**Warning:** This is a warning box.
+**Warning:** This is a warning box. {: .notice}
 
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
