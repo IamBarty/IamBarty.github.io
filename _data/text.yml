@@ -26,6 +26,32 @@ en: &DEFAULT_EN
   back_to_top: "Back to Top"
   search_placeholder_text: "Enter your search term..."
   powered_by: "Powered by"
+
+fr: &DEFAULT_FR
+  skip_links: "Sauter les liens"
+  skip_primary_nav: "Sauter à la navigation principale"
+  skip_content: "Sauter directement au contenu"
+  skip_footer: "Sauter au pied de page"
+  menu_label: "Menu"
+  by: "écrit par"
+  min_read: "temps de lecture"
+  read_more: "Lire la suite&hellip;"
+  categories: "Catégories"
+  tags: "Tags"
+  pages_categorized: "Pages classées sous"
+  pages_tagged: "Pages taguées"
+  table_of_contents: "Table des matières"
+  results_found: "Résultat(s) trouvé(s)"
+  share: "Partager"
+  tweet: "Tweet"
+  next: "Suivant"
+  previous: "Précédent"
+  newer: "Plus récent"
+  older: "Plus ancien"
+  back_to_top: "Retour en haut de page"
+  search_placeholder_text: "Entrez votre terme de recherche..."
+  powered_by: "Propulsé par"
+  
 en-US:
   <<: *DEFAULT_EN
 en-CA:
