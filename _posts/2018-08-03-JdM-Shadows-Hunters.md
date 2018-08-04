@@ -3,27 +3,30 @@ title: Le jeu du Moi
 subtitle: de Juillet 2018
 categories:
   - Jeu du Moi
+tags:
+  - Rôles cachés
+image: 
+  path: /images/JdM-shadow-hunters.jpeg
+  thumbnail: /images/JdM-shadow-hunters.jpeg
+  caption: "Photo prise sur [Matagot.com](https://www.matagot.com)"
 ---
 
-# Shadows Hunters
-
 On commence le blog avec un incontournable. Le jeu que j'ai le plus joué et de loin.
+Ah, que j'aime les jeux à rôles secrets. D'autant plus quand il n'y a pas que les méchants contre les gentils, mais aussi des rôles neutres. Et Shadow Hunters
 
-| Number | Next number | Previous number |
-| --- | --- | --- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+Pour résumer :
+1. J'adore les jeux à rôles secrets
+2. J'adore les univers sombres et fantastiques
+3. J'adore le chaos et le manque de stratégie
+4. J'adore taper sur les amis!
 
-![Crepe]()
+J'adore Shadow Hunters
 
-## Boxes
+### Note
 
-You can add notification, warning and error boxes like this:
-
-### Warning
-
-**Warning:** This is a warning box.
+**Note:** Si par il vous venait à l'esprit d'acheter le jeu, prenez immédiatement l'extension. Elle apporte de nouveaux personnages et permet de bien renouveler le jeu.
 {: .notice}
 
+
+**Note Bis:** Il existe sur le Web tonne de personnages alternatifs Shadow Hunters.
+{: .notice}
