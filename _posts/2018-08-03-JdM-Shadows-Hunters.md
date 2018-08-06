@@ -22,11 +22,10 @@ Pour résumer :
 
 J'adore Shadow Hunters
 
+{% raw %}{% include responsive-embed url="https://www.youtube.com/watch?v=TDBay-R054w" ratio="16:9" %}{% endraw %}
+
 ### Note
 
-**Note:** Si par il vous venait à l'esprit d'acheter le jeu, prenez immédiatement l'extension. Elle apporte de nouveaux personnages et permet de bien renouveler le jeu.
-{: .notice}
-
-
-**Note Bis:** Il existe sur le Web tonne de personnages alternatifs Shadow Hunters.
+**Note:** Si par il vous venait à l'esprit d'acheter le jeu, prenez immédiatement l'extension. Elle apporte de nouveaux personnages et permet de bien renouveler le jeu. 
+Il existe sur le Web tonne de personnages alternatifs Shadow Hunters.
 {: .notice}
