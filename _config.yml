@@ -130,4 +130,4 @@ footer_links: false
 #  - title: Feed
 #    url: atom.xml
 #    icon: fas fa-rss-square
-copyright: "Ce site est édité par *me, myself, and I*. Et beaucoup d'aide de [Jekill] (https://jekyllrb.com/) a [So Simple] (https://github.com/mmistakes/so-simple-theme).
+# copyright: "Ce site est édité par *me, myself, and I*. Et beaucoup d'aide de [Jekill] (https://jekyllrb.com/) a [So Simple] (https://github.com/mmistakes/so-simple-theme).
