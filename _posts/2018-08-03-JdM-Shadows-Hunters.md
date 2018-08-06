@@ -5,14 +5,14 @@ categories:
   - Jeu du Moi
 tags:
   - Rôles cachés
-image: 
-  path: /images/JdM-shadow-hunters.jpeg
-  thumbnail: /images/JdM-shadow-hunters.jpeg
-  caption: "Photo prise sur [Matagot.com](https://www.matagot.com)"
 ---
+
+![no-alignment]({{ '/images/JdM-shadow-hunters.jpeg' | absolute_url }})
 
 On commence le blog avec un incontournable. Le jeu que j'ai le plus joué et de loin.
 Ah, que j'aime les jeux à rôles secrets. D'autant plus quand il n'y a pas que les méchants contre les gentils, mais aussi des rôles neutres. Et Shadow Hunters
+
+
 
 Pour résumer :
 1. J'adore les jeux à rôles secrets
