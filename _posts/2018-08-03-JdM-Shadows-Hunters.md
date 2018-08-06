@@ -20,12 +20,10 @@ Pour résumer :
 3. J'adore le chaos et le manque de stratégie
 4. J'adore taper sur les amis!
 
-J'adore Shadow Hunters
-
-#{% include responsive-embed url="https://www.youtube.com/watch?v=TDBay-R054w" ratio="16:9" %}
+J'adore Shadow Hunters !
 
 ### Note
 
-**Note:** Si par il vous venait à l'esprit d'acheter le jeu, prenez immédiatement l'extension. Elle apporte de nouveaux personnages et permet de bien renouveler le jeu. 
+**Note:** Si par mégarde, il vous venait à l'esprit d'acheter le jeu, prenez immédiatement l'extension. Elle apporte de nouveaux personnages et permet de bien renouveler le jeu. 
 Il existe par ailleurs sur le Web tonne de personnages alternatifs Shadow Hunters.
 {: .notice}
