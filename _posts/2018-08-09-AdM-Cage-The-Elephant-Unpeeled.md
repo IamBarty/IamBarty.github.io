@@ -16,8 +16,10 @@ categories:
 Je commence la catégorie Album du Moi par un non-album. No Reason. 
 
 Cage The Elephant c'est du Garage Rock venu des US, des bêtes de scène, déjà cinq albums, tous excellents. On en prend le meilleur, on l'épure, on le dépouille un maximum et on «l'acoustique» en live, on lui rajoute quelques cordes et on enregistre tout ça : et voici le délicieux _Unpeeled_.
+{: .text-justify}
 
 Le contrat est rempli, le groupe nous livre ici 21 petites pépites, hormis peut-être les 3 reprises qui elles peuvent être mise de côté (_"Whole Wide World"_ de Wreckless Eric est plutôt bien interprétée, mais les _"Instant Crush_" des Daft Punk et "_Golden Brown_" des Stranglers n'apportent pas grand chose...). sorte de Best-Of des Cage The Elephant. Mon Best-Of de mes chansons préférées de ce groupe. Plutôt que de sortir un classique «best of» rapidement, le groupe nous propose ici une version sacrément originale. Un vrai renouveau.
+{: .text-justify}
 
 Un album que j'écoute régulièrement et entièrement : Check !
 
