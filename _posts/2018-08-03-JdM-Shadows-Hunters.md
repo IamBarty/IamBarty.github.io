@@ -5,6 +5,17 @@ categories:
   - Jeu du Moi
 tags:
   - Rôles cachés
+  - Yasutaka Ikeda
+  - Matagot
+---
+
+##_Shadow Hunters
+
+>Un jeu de **Yasutaka Ikeda**,
+>édité par **Matagot**,
+>sorti le **24 août 2009**,
+>pour **4 à 8** mauvais perdants (ou très bons gagnants, c'est selon)
+>d'une durée de **20 min** sans Adrien à **60 min** avec Adrien. 
 ---
 
 On commence le blog avec un incontournable. Le jeu que j'ai le plus joué et de loin.

@@ -43,7 +43,7 @@ liquid:
 # Build settings
 permalink: /:categories/:title/
 markdown: kramdown
-excerpt_separator: ""
+# excerpt_separator: ""
 feed:
   path: atom.xml
 

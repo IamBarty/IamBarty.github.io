@@ -1,10 +1,10 @@
 ---
 title: L'Album du Moi de Août 2018
-subtitle: Cage The Elephant - Unpeeled
 categories:
   - Album du Moi
 
 ---
+**Cage The Elephant - Unpeeled**
 
 Je commence la catégorie Album du Moi par un non-album. No Reason. 
 
