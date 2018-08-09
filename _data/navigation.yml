@@ -7,3 +7,5 @@
   url: /categories/
 - title: Recherche
   url: /search/
+- title: A propos
+  url: /apropos.md

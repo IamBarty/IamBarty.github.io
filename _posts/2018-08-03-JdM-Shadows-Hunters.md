@@ -1,6 +1,6 @@
 ---
-title: Le jeu du Moi
-subtitle: de Juillet 2018
+title: Le jeu du Moi de Juillet 2018
+subtitle: Shadow Hunters
 categories:
   - Jeu du Moi
 tags:
