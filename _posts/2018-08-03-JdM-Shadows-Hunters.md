@@ -1,7 +1,7 @@
 ---
 title: Le Jeu du Moi de Août 2018
 image: 
-  thumbnail:/images/shadow-hunters.jpg
+  thumbnail: /images/shadow-hunters.jpg
 categories:
   - Jeu du Moi
 tags:
