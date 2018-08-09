@@ -1,7 +1,6 @@
 ---
 layout: page
-title: A propos de moi
-subtitle: Mais pourquoi est-il si méchant?
+title: A propos de moi - Mais pourquoi est-il si méchant?
 ---
 
 Mon nom est Baptiste Lecornu. Ce qui me caractérise :
