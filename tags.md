@@ -1,5 +1,5 @@
 ---
-title: Tag Archive
+title: Articles par Tags
 layout: tags
 permalink: /tags/
 show_excerpts: true
