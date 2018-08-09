@@ -1,7 +1,7 @@
 ---
 title: L'Album du Moi de Août 2018
 image: 
-  thumbnail: /images/Cage-the-Elephant-Unpeeled2.jpg
+  thumbnail: /images/Cage-the-Elephant-Unpeeled.jpg
 categories:
   - Album du Moi
 tags :
