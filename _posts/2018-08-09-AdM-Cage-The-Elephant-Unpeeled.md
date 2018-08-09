@@ -14,6 +14,4 @@ Il s'agit là d'une captation live, sorte de Best-Of des Cage The Elephant, mais
 
 ![center-aligned-image]({{ '/images/JdM-shadow-hunters.jpeg' | absolute_url }}){: .align-center}
 
-```
-{% spotify spotify:track:3fuNydG9kg2Y09i8Foqq0p %}
-```
+<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3fuNydG9kg2Y09i8Foqq0p" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>
