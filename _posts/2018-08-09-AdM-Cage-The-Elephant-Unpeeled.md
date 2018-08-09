@@ -2,6 +2,7 @@
 title: L'Album du Moi de Août 2018
 categories:
   - Album du Moi
+tags :
   - Cage The Elephant
   - RCA
 
