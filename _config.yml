@@ -23,7 +23,7 @@ url: https://iambarty.github.io # the base hostname & protocol for your site e.g
 logo: /images/moije-site-logo.jpg # path of site logo, e.g. "/images/logo.png"
 date_format: "%d/%m/%Y"
 read_time: true
-words_per_minute: 200
+words_per_minute: false
 mathjax: # MathJax equations, e.g. true
 google_fonts:
   - name: "Source Sans Pro"
