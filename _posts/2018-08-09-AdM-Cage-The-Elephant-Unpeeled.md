@@ -17,6 +17,6 @@ Un album que j'écoute régulièrement et entièrement : Check !
 <iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3fuNydG9kg2Y09i8Foqq0p" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>
 
 
->**Note** : Anecdote marrant, à l'origine cet album n'était pas du tout prévu : le groupe a dû s'adapter aux exigences de Neil Young pour jouer à la Neil Young Bridge School Benefit. Tout devait être acoustique, des guitares jusqu'au synthé (Neil Young leur prêta même son orgue à pompe pour le remplacer).
+>**Note** : Anecdote marrante, à l'origine cet album n'était pas du tout prévu : le groupe a dû s'adapter aux exigences de Neil Young pour jouer à la Neil Young Bridge School Benefit. Tout devait être acoustique, des guitares jusqu'au synthé (Neil Young leur prêta même son orgue à pompe pour le remplacer).
 >Une fois l'adaptation de leur musique à ces contraintes gérée, les garçons prirent tellement de plaisir qu'ils se dirent «partons en tournée comme ça! ». Ce n'était pas prévu, ce n'était qu'un concert, puis une tournée, puis un album... 
 
