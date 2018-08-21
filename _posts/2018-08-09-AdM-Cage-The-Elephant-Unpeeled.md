@@ -16,6 +16,7 @@ tags :
 - sortie le **28 juillet 2017**,
 - chez **RCA**,
 - Indice sur l'échelle de Lecornu : 666.
+---
 
 Je commence la catégorie Album du Moi par un non-album. No Reason. 
 
@@ -27,7 +28,8 @@ Le contrat est rempli, le groupe nous livre ici 21 petites pépites, hormis peut
 
 Un album que j'écoute régulièrement et entièrement : Check !
 
-<iframe src="https://embed.spotify.com/?uri=spotify%3Atrack%3A3fuNydG9kg2Y09i8Foqq0p" width="100%" height="300" frameborder="0" allowtransparency="true"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5DxEW4Mgz7SIPrdy1EKrA3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+---
 
 > **Note** : Anecdote marrante, à l'origine cet album n'était pas du tout prévu : le groupe a dû s'adapter aux exigences de Neil Young pour jouer à la Neil Young Bridge School Benefit. Tout devait être acoustique, des guitares jusqu'au synthé (Neil Young leur prêta même son orgue à pompe pour le remplacer).
 > Une fois l'adaptation de leur musique à ces contraintes gérée, les garçons prirent tellement de plaisir qu'ils se dirent «partons en tournée comme ça! ». Ce n'était pas prévu, ce n'était qu'un concert, puis une tournée, puis un album... 
