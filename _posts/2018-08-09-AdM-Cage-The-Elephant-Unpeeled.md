@@ -31,9 +31,7 @@ Le contrat est rempli, le groupe nous livre ici 21 petites pépites, hormis peut
 
 Un album que j'écoute régulièrement et entièrement : Check !
 
-<div class="responsive-embed responsive-embed-16by9">
-  <iframe class="responsive-embed-item" src="https://open.spotify.com/embed/album/4zpN41aGAYPWX3dzE19rH7"></iframe>
-</div>
+<iframe src="https://open.spotify.com/embed/album/4zpN41aGAYPWX3dzE19rH7" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
