@@ -37,7 +37,9 @@ Pour résumer :
 
 J'adore Shadow Hunters !
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/TDBay-R054w" style="float:middle" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="responsive-embed responsive-embed-16by9">
+  <iframe class="responsive-embed-item" src="https://www.youtube.com/embed/TDBay-R054w"></iframe>
+</div>
 
 ---
 
