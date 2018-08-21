@@ -31,7 +31,7 @@ Le contrat est rempli, le groupe nous livre ici 21 petites pépites, hormis peut
 
 Un album que j'écoute régulièrement et entièrement : Check !
 
-<iframe src="https://open.spotify.com/embed/track/5DxEW4Mgz7SIPrdy1EKrA3" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4zpN41aGAYPWX3dzE19rH7" width="300" height="380" align="center" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 ---
 
 > **Note** : Anecdote marrante, à l'origine cet album n'était pas du tout prévu : le groupe a dû s'adapter aux exigences de Neil Young pour jouer à la Neil Young Bridge School Benefit. Tout devait être acoustique, des guitares jusqu'au synthé (Neil Young leur prêta même son orgue à pompe pour le remplacer).
