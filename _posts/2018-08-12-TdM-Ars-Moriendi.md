@@ -12,7 +12,7 @@ tags:
 
 # Ars Moriendi
 
-> Un podcast écrit par **Simon Predj**. 
+- Un podcast écrit par **Simon Predj**. 
 
 Un podcast à écouter dans le noir... Dans une ambiance sombre, le narrateur nous raconte les histoires vraies de tueurs en série et de crimes sordides, mais aussi les mystères insolites des quatre coins du globe. Un peu comme on se raconte des contes effrayants pour se faire peur autour d'un feu de camp, Ars Moriendi suscite, pour moi, une réflexion sur la fragilité et la cruauté de la race humaine et la nature qui l'entoure. 
 
