@@ -8,7 +8,7 @@ tags:
   - Levain
 ---
 
-Ma recette "parfait" de pain au levain, après quantité de tests à base de recettes différentes, de farines différentes, de temps différents,... Cuit en cocotte en fonte.
+Ma recette "parfaite" de pain au levain, après quantité de tests à base de recettes différentes, de farines différentes, de temps différents,... Cuit en cocotte en fonte.
 
 Je prévois en tout 1 jour complet (de midi à midi généralement) du début de la recette, jusqu’à la sortie du four. Alors, oui, ça paraît beaucoup comme ça, sauf que je ne reste pas devant le pain pendant les levées et les temps de repos et de cuisson.
 
