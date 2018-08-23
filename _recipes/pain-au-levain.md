@@ -37,7 +37,7 @@ Réaliser ce pain au levain me demande de l’attention, de la délicatesse, du 
 
 6. **La Cuisson** : Préchauffer le four à 250°C avec la cocotte fermée dedans. Quand le four est chaud, sortir la cocotte et mettre délicatement le pain dedans. Scarifier. Fermer la cocotte et enfourner pour 30 minutes. Passées les 30 minutes, ôter le couvercle de la cocotte et terminer la cuisson 5 à 15 minutes, suivant la cuisson voulue. Sortir ensuite la cocotte et le pain et laisser refroidir sur une grille plusieurs heures.
 
-> ## Astuces
+> #### Astuces
 > 1. Le sel mis dans la 1ère étape permet de ralentir l'autolyse. Je peux donc faire le mélange le midi et laisser l'autolyse se faire jusqu'au soir. Si par contre je veux faire ma recette plus rapidement, mettre le sel dans la 2ème étape. L'autolyse est alors réduite à 45min - 1h.
 > 2. Pour fariner un plan de travail, rien de mieux que la farine de riz. Elle absorbe bien plus l'humidité que ces collègues (= ça colle moins vite!).
 > 3. Pour l'étape 5, il est possible de raccourcir le temps de pousse à 3 heures en laissant à température ambiante. Je trouve pour ma part le résultat moins bien (plus la pousse est longue, plus les arômes se libèrent).
