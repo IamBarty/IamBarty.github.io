@@ -2,7 +2,7 @@
 title: "Pain au levain"
 image: 
   path: /images/pain-tartine-au-levain-farine-seigle-lg.jpg
-  thumbnail: /images/pain-tartine-au-levain-farine-seigle-lg-400x200.jpg
+  thumbnail: /images/pain-tartine-au-levain-farine-seigle-400x200.jpg
 tags:
   - Pain
   - Levain
