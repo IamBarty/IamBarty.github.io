@@ -26,7 +26,7 @@ Réaliser ce pain au levain me demande de l’attention, de la délicatesse, du 
 
 1. **L'Autolyse** : Mélanger les farines, le sel et 300g d'eau grossièrement. Laisser reposer ~4-5h. (Généralement je le fais vers 13h, durant ma pause repas, pour pouvoir faire le reste quand je rentre vers 18h). Le but est de rendre la pâte élastique, afin de donner de la tenue au pâton.
 
-2. **Le Levain** : Ajouter le levain et pétrir 10min dans le robot jusqu'à absorption du liquide. Si le liquide est absorber rapidement, c'est qu'il manque d'eau, auquel cas rajouter petit à petit les 30g d'eau supplémentaire. Laisser reposer 1/2 heures.
+2. **Le Levain** : Ajouter le levain et pétrir 10min dans le robot jusqu'à absorption du liquide. Si le liquide est absorber rapidement, c'est qu'il manque d'eau, auquel cas rajouter petit à petit les 40g d'eau supplémentaire. Laisser reposer 1/2 heures.
 
 3. **Les Rabats** : Rabattre la pâte à pain toutes les demi-heures, pendant 3 heures. Prendre soin de bien étirer la pâte vers le haut avant de rabattre, pour emprisonner de l'air. Un petit GIF vaut mieux qu'un grand discours : 
 ![center-aligned-image]({{ '/images/rabat-pain-au-levain.gif' | absolute_url }}){: .align-center}
