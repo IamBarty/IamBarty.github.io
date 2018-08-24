@@ -26,6 +26,7 @@ tags:
 - **sorti le** : 14 septembre 2005,
 - **il dure** : 1h43min.
 - **Type** :  Comédie policière.
+
 ---
 
 On commence la catégorie "Le Film/La Série du Moi" en douceur avec un petit bonbon acidulé : Kiss Kiss Bang Bang.
