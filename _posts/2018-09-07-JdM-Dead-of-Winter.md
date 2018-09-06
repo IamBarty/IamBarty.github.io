@@ -12,10 +12,11 @@ tags:
   - Zombies
   - Isaac Vega
   - Jonathan Gilmour
-  -	Peter Wocken
+  - Peter Wocken
   - Fernanda Suarez
   - David Richards
   - Filosofia
+  
 ---
 
 # Dead of Winter
