@@ -3,6 +3,8 @@ layout: page
 title: A propos de moi - Mais pourquoi est-il si méchant?
 ---
 
+> "Heureux soient les fêlés, car ils laisseront passer la lumière." - Michel Audiard
+
 Mon nom est Baptiste Lecornu. Ce qui me caractérise :
 
 - Je porte un bouc. Pas l'animal, l'autre.
