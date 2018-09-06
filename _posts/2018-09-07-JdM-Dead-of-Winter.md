@@ -16,7 +16,6 @@ tags:
   - Fernanda Suarez
   - David Richards
   - Filosofia
-
 ---
 
 # Dead of Winter
