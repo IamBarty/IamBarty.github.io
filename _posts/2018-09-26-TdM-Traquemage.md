@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# Tarquemage
+# Traquemage
 
 ---
 
