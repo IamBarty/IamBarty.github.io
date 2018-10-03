@@ -12,7 +12,7 @@ tags:
 
 ---
 
-# Ars Moriendi
+# Tarquemage
 
 ---
 
