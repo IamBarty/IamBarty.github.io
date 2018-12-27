@@ -1,5 +1,5 @@
 ---
-title: Le Truc du Moi de Novembre 2018
+title: Le Truc du Moi de Décembre 2018
 image: 
   thumbnail: /images/Samedi-Noir-thumbnail.jpg
 categories:

@@ -1,7 +1,7 @@
 ---
 title: Le Film/La Série du Moi de Octobre 2018
 image: 
-  thumbnail: /images/Grave-thumbmail.jpg
+  thumbnail: /images/Grave-thumbnail.jpg
 categories:
   - Le Film/La Série du Moi
 tags:
