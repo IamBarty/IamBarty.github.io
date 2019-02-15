@@ -21,7 +21,7 @@ tags :
 
 ---
 
-Tu aimes Rage Again The Machine ? Tu as aimé Linkin Park quand c'était bien ? Alors tu ne pourras qu'adorer Fever 333. 
+Tu aimes Rage Against The Machine ? Tu as aimé Linkin Park quand c'était bien ? Alors tu ne pourras qu'adorer Fever 333. 
 Ce groupe s'est formé en juillet 2017, comme de par hasard le mois où Chester Bennington nous a quitté... Coincidence, je ne penses pas. Jason Butler, le chanteur de Fever 333 en est la réincarnation. Et ce guistariste, Stephen Harrison, ma ma, je l'aime !
 
 <iframe src="https://open.spotify.com/album/5PvosHtqCuqLK8A131lGZf" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
