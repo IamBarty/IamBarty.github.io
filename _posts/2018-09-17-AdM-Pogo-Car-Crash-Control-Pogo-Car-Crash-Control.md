@@ -28,7 +28,7 @@ Si ce qui se passe dans ma tête devait avoir une bande-son, nul doute qu'il s'a
 Vous voulez donc du punk qui arrache les tympans et qui déchire en même temps (Et en français, s'il vous plait!) ? Pogo Car Crash Control est là pour vous. 
 
 
-<iframe src="https://open.spotify.com/embed/album/4zpN41aGAYPWX3dzE19rH7" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/album/7AilOfTrypImItz4aoT7kR" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 

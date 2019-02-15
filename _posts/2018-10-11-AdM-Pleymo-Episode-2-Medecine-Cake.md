@@ -23,7 +23,7 @@ tags :
 
 Ma madeleine de Proust. Parce que mon premier CD et seul CD présent sur mon premier baladeur MP3 (128Mo a l'époque...). Parce que mes premiers concerts. Un point c'est tout. 
 
-<iframe src="https://open.spotify.com/embed/album/4zpN41aGAYPWX3dzE19rH7" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe src="https://open.spotify.com/album/2BaqDJhXFhUtcYpfeXhGkq" width="100%" height="300" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 ---
 
