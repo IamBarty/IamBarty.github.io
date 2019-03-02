@@ -13,13 +13,13 @@ Recette pour 4 personnes – 20 minutes de préparation
 ## Ingrédients
 
 * 700 g de bonne viande de bœuf (préciser au boucher que c’est pour un tartare au couteau)
-* 2 cuillères à soupe de vinaigre balsamique
-* 4 cuillères à soupe d’huile d’olive
-* 1 cuillère à soupe de Worcestershire sauce
+* 2 c-à-s de vinaigre balsamique
+* 4 c-à-s d’huile d’olive
+* 1 c-à-s de Worcestershire sauce
 * 50 g de parmesan
 * une douzaine d'olives noires
 * 4 tomates séchées
-* 1 cuillère à soupe de pignon de pin
+* 1 c-à-s de pignon de pin
 * une bonne poignée de roquette
 * Sel, poivre, tabasco
 
