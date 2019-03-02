@@ -15,7 +15,7 @@ Pour un moule à pâté en croûte de 31cm x 8 cm
   * 1 oeuf
   * 160 g de beurre
   * 1 pincée de sucre
-  * 1 c. à café de sel
+  * 1 c-à-c de sel
   * 50 g d'eau
   * 250 g de farine
 * Farce :
@@ -27,12 +27,12 @@ Pour un moule à pâté en croûte de 31cm x 8 cm
   * 15 tours de moulin à poivre noir
   * 1 pincée de quatre-épices
   * 8 cl de vin blanc sec
-  * 4 c. à soupe de calva
+  * 4 c-à-s de calva
   * 120 g de pistache
 * Gelée :
   * 1 L de bouillon de champignons idéalement ou de poule
   * 32 g de feuille de gélatine
-  * 4 c. à soupe de Madère
+  * 4 c-à-s de Madère
   
 ## Instructions
 
