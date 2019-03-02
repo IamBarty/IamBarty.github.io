@@ -28,7 +28,7 @@ Recette pour 8 personnes – 1h30 de préparation
 * Meringue
     * 2 blancs d'oeuf
     * 100 g de sucre glace
-    * 1/2 cuillère à café de levure chimique 
+    * 1/2 c-à-c de levure chimique 
 
 ## Instructions
 
