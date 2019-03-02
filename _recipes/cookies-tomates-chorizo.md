@@ -17,10 +17,10 @@ Des bons cookies salés.
 * 30 g de parmesan
 * 20 g de chorizo
 * 1 oeuf
-* 1 cuillère à soupe de poudre de noisettes (ou d'amandes)
-* 2 cuillère à soupe d'origan séché
+* 1 c-à-s de poudre de noisettes (ou d'amandes)
+* 2 c-à-s d'origan séché
 * 1 pincée de sel
-* 1 cuillère à café de levure
+* 1 c-à-c de levure
 
 ## Instructions
 
