@@ -20,12 +20,12 @@ Recette pour 5 personnes – 2 jours de préparation
 * Marinade sèche :
 	* 6 g de thé fumé Lapsang Souchong
 	* 10 g de gros sel gris
-	* 2 cuillères à café de paprika
-	* 1 cuillère à café de gingembre en poudre
-	* 1 cuillère à café de poivre vert
-	* 1 cuillère à café de grains de coriandre
-	* 1 cuillère à café de piment de Cayenne
-	* 1 cuillère à café de poudre de chili
+	* 2 c-à-c de paprika
+	* 1 c-à-c de gingembre en poudre
+	* 1 c-à-c de poivre vert
+	* 1 c-à-c de grains de coriandre
+	* 1 c-à-c de piment de Cayenne
+	* 1 c-à-c de poudre de chili
 
 * Sauce :
 	* 15 cl de ketchup
@@ -34,10 +34,10 @@ Recette pour 5 personnes – 2 jours de préparation
 	* 10 cl d’eau ou de bouillon
 	* 60 g de sirop d’érable ou de sucre complet
 	* 100 g de compote de pommes non sucrée
-	* 1 cuillère à soupe de moutarde
-	* 2 cuillères à soupe de sauce Worcestershire
+	* 1 c-à-s de moutarde
+	* 2 c-à-s de sauce Worcestershire
 	* 1 gousse d’ail hachée
-	* 1 cuillère à café de gros sel
+	* 1 c-à-c de gros sel
 
 ## Instructions
 
