@@ -2,15 +2,12 @@
 title: "Taboulé de chou-fleur à l'avocat"
 image: 
   path: /images/taboule-choufleur-lg.jpg
-<<<<<<< HEAD
   thumbnail: /images/photo-a-venir.png
-=======
-  thumbnail: /images/taboule-choufleur-400x200.jpg
->>>>>>> 57a7cf85b139950d867e56042bb72914d65b8be6
 tags:
   - Entrée
   - Salade composée
 ---
+
 Le chou-fleur peut se préparer en risotto à la place du riz ou en taboulé à la place de la semoule. Cela permet aux gens qui ne l'aime pas de le goûter autrement... 
 
 ## Ingrédients
