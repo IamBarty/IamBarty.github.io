@@ -2,7 +2,7 @@
 title: "Pâté en croûte"
 image: 
   path: /images/pate-croute-lg.jpg
-  thumbnail: /images/pate-croute-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Pâté
   - Entrée
