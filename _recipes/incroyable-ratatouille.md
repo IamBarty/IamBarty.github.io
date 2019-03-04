@@ -2,7 +2,7 @@
 title: "Incroyable Ratatouille"
 image: 
   path: /images/incroyable-ratatouille-lg.jpg
-  thumbnail: /images/incroyable-ratatouille-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Plat
   - Végétarien

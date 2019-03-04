@@ -2,7 +2,7 @@
 title: "Boeuf Bourguigon Cerise-Porto"
 image: 
   path: /images/bourguignon-cerises-porto-lg.jpg
-  thumbnail: /images/bourguignon-cerises-porto-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Dessert
 ---

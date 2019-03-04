@@ -2,7 +2,7 @@
 title: "Salade de fruits d'été à l'infusion de thym"
 image: 
   path: /images/salade-de-fruits-d-été-au-thym-lg.jpg
-  thumbnail: /images/salade-de-fruits-d-été-au-thym-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Dessert
 ---

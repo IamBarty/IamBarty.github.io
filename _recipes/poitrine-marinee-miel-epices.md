@@ -2,7 +2,7 @@
 title: "Poitrine de porc grillée au miel et aux épices"
 image: 
   path: /images/poitrine-marinee-miel-epices-lg.jpg
-  thumbnail: /images/poitrine-marinee-miel-epices-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Dessert
 ---

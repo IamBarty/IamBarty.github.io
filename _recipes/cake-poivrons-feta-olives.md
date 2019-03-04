@@ -2,7 +2,7 @@
 title: "Cake Poivrons Feta Olives"
 image: 
   path: /images/cake-poivrons-feta-olives-lg.jpg
-  thumbnail: /images/cake-poivrons-feta-olives-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Cake salé
 ---

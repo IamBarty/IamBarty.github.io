@@ -2,7 +2,7 @@
 title: "Cookies salés aux tomates séchées et au chorizo"
 image: 
   path: /images/cookies-tomates-chorizo-lg.jpg
-  thumbnail: /images/cookies-tomates-chorizo-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Cookies salés
 ---

@@ -2,7 +2,7 @@
 title: "Tarte au citron meringuée"
 image: 
   thumbnail: /images/tarte-citron-meringuee-400x200.jpg
-  path: /images/tarte-citron-meringuee-lg.jpg
+  path: /images/photo-a-venir.png
 tags:
   - Dessert
 ---

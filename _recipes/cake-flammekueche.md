@@ -2,7 +2,7 @@
 title: "Cake Flammekueche"
 image: 
   path: /images/cake-flammekueche-lg.jpg
-  thumbnail: /images/cake-flammekueche-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Cake salé
 ---
