@@ -12,14 +12,14 @@ Un cake végétarien délicieux.
 ## Ingrédients
 
 * 3 oeufs
-* 150g de farine
+* 150 g de farine
 * 1 sachet de levure
 * 8 cl d'huile d'olive
 * 12.5 cl de lait entier
 * 100 g de gruyère râpé
 * 1 petit poivron vert
 * 1 petit poivron rouge
-* 2 cuillerées à soupe d'huile d'olive
+* 2 c-à-s d'huile d'olive
 * 150 g de feta
 * 50 g d'olives noires
 * 1 pincée de sel

@@ -12,15 +12,15 @@ tags:
 Recette pour 4 personnes – 15min de préparation
 
 * 12 tranches de poitrine de porc, fraîche ou fumée
-* 2 cuillères à soupe de miel liquide
+* 2 c-à-s de miel liquide
 * 5 cl d’huile d’olive
-* 1 cuillère à soupe de sauce soja
-* 1 cuillère à café de graines de cumin
-* 1 cuillère à café de graines de carvi
-* 1 cuillère à café de curry en poudre
+* 1 c-à-s de sauce soja
+* 1 c-à-c de graines de cumin
+* 1 c-à-c de graines de carvi
+* 1 c-à-c de curry en poudre
 * 2 pincées de poudre de noix de muscade
-* ½ cuillère à café de cannelle en poudre
-* ½ cuillère à café de poudre de paprika
+* ½ c-à-c de cannelle en poudre
+* ½ c-à-c de poudre de paprika
 
 
 ## Instructions
