@@ -1,8 +1,8 @@
 ---
 title: "Negima yakitori"
 image: 
-  thumbnail: /images/negima-yakitori-400x200.jpg
-  path: /images/photo-a-venir.png
+  thumbnail: /images/photo-a-venir.png
+  path: /images/tarte-citron-meringuee-lg.jpg
 tags:
   - Apéritif
   - Asiatique
