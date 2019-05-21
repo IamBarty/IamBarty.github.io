@@ -2,10 +2,11 @@
 title: "Houmous"
 image: 
   path: /images/houmous-lg.jpg
-  thumbnail: /images/houmous-400x200.jpg
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Apéritif
 ---
+
 Miam miam Pita. 
 
 ## Ingrédients
