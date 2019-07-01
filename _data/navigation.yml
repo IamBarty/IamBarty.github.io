@@ -1,8 +1,8 @@
 # Site navigation links
-- title: Accueil
-  url: /
 - title: Recettes
   url: /recipes/
+- title: Les Tops du Moi
+  url: /
 - title: Articles par catégories
   url: /categories/
 - title: Recherche
