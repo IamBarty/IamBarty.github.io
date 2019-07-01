@@ -1,9 +1,8 @@
 ---
-title: Mes recettes
-layout: collection
-permalink: /recipes/
-collection: recipes
+title: Post Archive
+layout: posts
+permalink: /posts/
+show_excerpts: true
 entries_layout: grid
----
 
-Ma petite collection de recettes testées et approuvées.
+---
