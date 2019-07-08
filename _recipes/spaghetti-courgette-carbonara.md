@@ -20,8 +20,6 @@ Recette pour 2 personnes – 15 min de préparation
 * 1 pincée de sel
 * 1 grosse pincée de poivre
 
-Spaghettis de courgettes crues
-
 ## Instructions
 
 1. **Les spaghettis de courgette** : Laver et éplucher les courgettes. Avec le KitchenAid, faire des spaghettis avec les courgettes. Porter un grand volume d’eau salée à ébullition. Plonger les spaghettis de courgettes et les faire cuire 4 min. Les égoutter soigneusement.
