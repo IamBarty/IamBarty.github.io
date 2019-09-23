@@ -8,10 +8,6 @@ tags :
 
 ---
 
-# Mon Top Album du Moi 
-
----
-
 | Album | Groupe |  Date de parution | Label | Echelle de Lecornu |
 | --- | --- | --- | --- | --- |
 | The Greatest Songs Ever Written (By Us!) | NOFX | 5 juin 2002 | Epic Records | 666 |
