@@ -35,6 +35,10 @@ A CONSTRUIRE
 </div>
 
 ---
+| Album | Groupe |  Date de parution | Label |
+| --- | --- | --- | --- | --- |
+| `git status` | List all *new or modified* files | --- | --- | --- |
+| `git diff` | Show file differences that **haven't been** staged | --- | --- | --- |
 
 > **Note :** Un deuxième jeu dans le même style, même principe du même auteur existe, Mint Delivery. Il s'agit, comme son nom l'indique d'un Pick & Deliver. Bien sympathique aussi !
 
