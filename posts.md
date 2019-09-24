@@ -1,6 +1,6 @@
 ---
 title: Mes Top du Moi
-layout: collection
+layout: posts
 permalink: /posts/
 show_excerpts: true
 sort_by: title
