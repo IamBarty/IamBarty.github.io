@@ -1,7 +1,7 @@
 ---
 title: Mes Top du Moi
 layout: collection
-permalink: /
+permalink: /tops/
 collection: tops
 entries_layout: grid
 ---
