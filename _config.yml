@@ -42,6 +42,7 @@ liquid:
 
 # Build settings
 permalink: /:categories/:title/
+permalink: /:tags/:title/
 markdown: kramdown
 # excerpt_separator: ""
 feed:
@@ -104,6 +105,13 @@ defaults:
   - scope:
       path: "_recipes"
       type: recipes
+    values:
+      layout: page
+      comments: false
+      share: false
+  - scope:
+      path: "_tops"
+      type: tops
     values:
       layout: page
       comments: false
