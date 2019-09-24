@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mon Top Film ou Série du Moi
 image: 
   thumbnail: /images/photo-a-venir.png
