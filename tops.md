@@ -3,5 +3,5 @@ title: Mes Top du Moi
 layout: collection
 permalink: /tops/
 collection: tops
-entries_layout: grid
+entries_layout: list
 ---
