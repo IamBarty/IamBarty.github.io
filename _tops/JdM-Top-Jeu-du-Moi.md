@@ -1,11 +1,6 @@
 ---
 layout: page
 title: Mon Top Jeu du Moi
-image: 
-  thumbnail: /images/photo-a-venir.png
-categories:
-  - Jeu du Moi
-tags :
 
 ---
     
