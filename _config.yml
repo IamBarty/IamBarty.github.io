@@ -106,9 +106,10 @@ defaults:
       path: "_recipes"
       type: recipes
     values:
-      layout: page
+      layout: post
       comments: false
       share: false
+  # Top defaults
   - scope:
       path: "_tops"
       type: tops
