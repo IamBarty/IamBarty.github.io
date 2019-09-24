@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mon Top Truc du Moi
 image: 
   thumbnail: /images/photo-a-venir.png
