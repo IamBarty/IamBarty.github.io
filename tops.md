@@ -1,5 +1,4 @@
 ---
-title: Mes Top du Moi
 layout: collection
 permalink: /tops/
 collection: tops
