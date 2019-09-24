@@ -1,8 +1,9 @@
 ---
 title: Mes Top du Moi
-layout: collection
+layout: posts
 permalink: /posts/
-collection: page
+sort_by: title
+show_excerpts: false
 entries_layout: grid
 
 ---
