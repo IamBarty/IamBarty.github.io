@@ -16,12 +16,12 @@ Pour un Paris-Brest 2.0 pour 8 personnes – 2h de préparation
 	* 200 g de crème liquide entière
 	* 1 pincée de sel
 * Craquelin cacao
-	* 100 g de beurre
-	* 110 g de farine
-	* 125 g de sucre roux
-	* 15 g de cacao
-	* 60 g de blancs d'oeuf (~2 pce)
-	* 100 g de noisettes brutes concassées
+	* 25 g de beurre
+	* 25 g de farine
+	* 30 g de sucre roux
+	* 5 g de cacao
+	* 15 g de blancs d'oeuf (~0.5 pce)
+	* 25 g de noisettes brutes concassées
 * Pâte à choux
 	* 70 g d'eau
 	* 75 g de lait
