@@ -12,7 +12,7 @@ Recettes de burgers, testées et approuvées !
 
 ## Le Bartholoméo (Big Fernand)
 
-* [Haut du buns]](https://iambarty.github.io/recipes/buns-a-burger/)
+* [Haut du buns](https://iambarty.github.io/recipes/buns-a-burger/)
 * Lard fumé
 * Confits d'oignon rouge
 * Raclette
@@ -22,9 +22,9 @@ Recettes de burgers, testées et approuvées !
 
 ## Le Jurassien
 
-* [Haut du buns]](https://iambarty.github.io/recipes/buns-a-burger/)
+* [Haut du buns](https://iambarty.github.io/recipes/buns-a-burger/)
 * Chips de saucisse de Morteau
-* [Condiment oignons, moutarde et jus de boeuf]](https://iambarty.github.io/recipes/condiment-oignons-moutarde-boeuf/)
+* [Condiment oignons, moutarde et jus de boeuf](https://iambarty.github.io/recipes/condiment-oignons-moutarde-boeuf/)
 * Morbier
 * Steack 70% boeuf / 30% saucisse de Morteau 
 * Chou rouge vinaigré
@@ -32,7 +32,7 @@ Recettes de burgers, testées et approuvées !
 
 ## Le Végé d'été (froid)
 
-* [Haut du buns]](https://iambarty.github.io/recipes/buns-a-burger/)
+* [Haut du buns](https://iambarty.github.io/recipes/buns-a-burger/)
 * Copeaux de parmesan
 * Ecrasé d'avocat
 * Légumes d'été confits au four à l'huile d'olive
