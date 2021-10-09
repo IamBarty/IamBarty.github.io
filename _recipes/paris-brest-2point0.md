@@ -13,7 +13,7 @@ Pour un Paris-Brest 2.0 pour 8 personnes – 2h de préparation
 
 * Insert praliné
 	* 50 g de de pâte de praliné noisette ou noisette/amande
-	* 200 g de crème liquide entière
+	* 20 g de crème liquide entière
 	* 1 pincée de sel
 * Craquelin cacao
 	* 25 g de beurre
@@ -45,7 +45,7 @@ Pour un Paris-Brest 2.0 pour 8 personnes – 2h de préparation
 
 2. **La pâte à choux** : Porter à ébullition le lait, l'eau, le sucre, le sel et le beurre coupé en morceaux. Hors du feu, ajouter en une seule fois la farine et mélanger énergiquement. Remettre sur le feu sans cesser de mélanger jusqu'à ce que la pâte se détâche des parois de la casserole. La faire dessécher encore quelques minutes sans cesser de remuer. Ajouter progressivement les oeufs un à un, en mélangeant entre chaque ajout. La pâte est prête quand elle est fluide sans être liquide.
 
-3. **Le craquelin cacao** : A la main, mélanger le beurre, la farine, le sucre et le cacao. Former des boules de 200 g environ. Placer chaque boule aplatie entre 2 feuillesde papier cuisson et étaler au rouleau sur 1,5 mm environ. Faire durcir 10 min au congélateur. Badigeonner uniformément le craquelin avec les blancs d'oeuf battus. Parsemer de noisettes. Appuyer avec un rouleau afin de bien incruster les noisettes dans le craquelin. Avec un emporte-pièce, détailler des disques dans le craquelin de la taille des ronds de pâte à choux. Tapoter avec le rouleau pour obtenir une découpe nette. Faire durcir quelques minutes au congélateur.
+3. **Le craquelin cacao** : A la main, mélanger le beurre, la farine, le sucre et le cacao.  Placer la pate aplatie entre 2 feuilles de papier cuisson et étaler au rouleau sur 1,5 mm environ. Faire durcir 10 min au congélateur. Badigeonner uniformément le craquelin avec les blancs d'oeuf battus. Parsemer de noisettes. Appuyer avec un rouleau afin de bien incruster les noisettes dans le craquelin. Avec un emporte-pièce, détailler des disques dans le craquelin de la taille des ronds de pâte à choux. Tapoter avec le rouleau pour obtenir une découpe nette. Faire durcir quelques minutes au congélateur.
 
 4. **La cuisson** : Mettre la pâte à choux dans une poche à douille et dresser la pâte (Pour ma part, je fais un seul Paris-Brest en forme de couronne de 8 ronds). Mettre le craquelin sur chaque rond. Faire cuire 10 à 15 min à 180°C sans chaleur tournante, puis laisser sécher 10 min à 160°C avec chaleur tournante. Laisser refroidir sur une grille.
 
