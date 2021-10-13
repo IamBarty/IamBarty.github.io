@@ -35,5 +35,5 @@ Recettes de burgers, testées et approuvées !
 * [Haut du buns](https://iambarty.github.io/recipes/buns-a-burger/)
 * Copeaux de parmesan
 * Ecrasé d'avocat
-* Légumes d'été confits au four à l'huile d'olive
+* [Légumes d'été confits au four à l'huile d'olive](https://iambarty.github.io/recipes/legumes-confits/)
 * Bas du buns
