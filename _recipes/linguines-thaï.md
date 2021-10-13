@@ -1,5 +1,5 @@
 ---
-title: "linguines à la thaï "
+title: "Linguines à la thaï "
 image: 
   thumbnail: /images/photo-a-venir.png
   path: /images/photo-a-venir.png
