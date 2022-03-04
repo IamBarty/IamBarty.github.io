@@ -1,5 +1,5 @@
 ---
-title: "Cake Poireaux et laite de coco"
+title: "Cake Poireaux et lait de coco"
 image: 
   path: /images/photo-a-venir.png
   thumbnail: /images/photo-a-venir.png
