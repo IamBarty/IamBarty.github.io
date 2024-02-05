@@ -1,5 +1,5 @@
 ---
-title: "Bouillon thaï aux boulettes de poulet"
+title: "Soupe thaï aux boulettes de poulet"
 image: 
   path: /images/photo-a-venir.png
   thumbnail: /images/photo-a-venir.png
