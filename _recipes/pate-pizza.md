@@ -24,3 +24,5 @@ Pour 5 pâtons
 2. **Second pétrin** : Ajouter ensuite 27 g de sel, 7 g de sucre, 23,5 cl d'eau, 1 g d'huile d'olive. Le pétrissage doit se faire de plus en plus énergique jusqu'à l'obtention d'une pâte lisse. Cette boule de pâte doit reposer 10 minutes avant d'être plissée. 
 
 3. **Levée** : Une nouvelle phase de repos de 30 minutes est alors nécessaire, sous un linge humide. Puis, diviser la pâte en boules de 300 g enroulées sur elles-mêmes avant de les laisser reposer encore, 6 à 8 heures dans un récipient fermé. 
+
+> **Astuces** : Les boules peuvent être congelées après avoir été mises sous film plastique.
