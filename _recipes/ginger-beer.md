@@ -1,8 +1,8 @@
 ---
 title: "Ginger beer"
 image: 
-  path: /images/ail-confit-vanille-lg.jpg
-  thumbnail: /images/ail-confit-vanille-400x200.jpg
+  path: /images/photo-a-venir.png
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Boisson
 ---
