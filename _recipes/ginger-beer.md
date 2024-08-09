@@ -16,7 +16,7 @@ Pour un litre
 * 50 g de gingembre frais
 * 100 g de sucre
 * 1 jus de citron jaune
-* 1/2 c-à-c de levure de boulanger
+* 1/2 c-à-c de levure sèche de boulanger
 	
 ## Instructions
 
