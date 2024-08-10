@@ -6,6 +6,7 @@ image:
 tags:
   - Pizza
 ---
+
 Pâte à pizza
 
 ## Ingrédients
