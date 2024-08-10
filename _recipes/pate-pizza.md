@@ -6,10 +6,11 @@ image:
 tags:
   - Pizza
 ---
-
-Pour 5 pâtons
+Pâte à pizza
 
 ## Ingrédients
+
+Recette pour 5 pâtons
 
 * 1 kg de farine
 * 45+23.5 cl d'eau
