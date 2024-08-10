@@ -6,7 +6,7 @@ image:
 tags:
   - Plat
 ---
-curry indien de poulet
+Curry indien de poulet
 
 ## Ingrédients
 
