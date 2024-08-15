@@ -16,7 +16,7 @@
 # theme: jekyll-theme-so-simple
 remote_theme: mmistakes/so-simple-theme
 locale: fr-FR
-title: "MoiJe"
+title: "Livre de recettes"
 description: "Petite collection de recettes"
 baseurl: / # the subpath of your site, e.g. "/blog"
 url: https://iambarty.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
