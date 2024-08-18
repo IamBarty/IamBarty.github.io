@@ -1,8 +1,8 @@
 ---
 title: "Butter chicken"
 image: 
-  thumbnail: /images/photo-a-venir.png
   path: /images/photo-a-venir.png
+  thumbnail: /images/photo-a-venir.png
 tags:
   - Plat
 ---
