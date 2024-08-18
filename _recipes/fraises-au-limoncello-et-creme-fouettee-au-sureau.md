@@ -6,10 +6,11 @@ image:
 tags:
   - Dessert
 ---
+Hmmm !
 
 ## Ingrédients
 
-Pour une grosse brioche – 2j de préparation
+Pour 4 personnes – 45min de préparation
 
 * Pour les fraises marinées
   * 500 g de fraises fraîches
