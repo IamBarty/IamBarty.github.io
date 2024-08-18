@@ -22,17 +22,6 @@ Pour 4 personnes – 45min de préparation
   * Des palets bretons
   * De l’huile d’olive extra-vierge
   * Des flocons de sel
-
-
-
-
-
-
-
-
-
-
-
 	
 ## Instructions
 
