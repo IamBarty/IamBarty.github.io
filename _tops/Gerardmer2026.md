@@ -8,7 +8,7 @@ title: Mon festival de Gérardmer 2026
 ---
 
 | No | Film | Réalisateur(s) |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | 1 | Alter Ego | Nicolas Charlet et Bruno Lavaine |
 | 2 | Send Help | Sam Raimi |
 | 3 | The Descent | Neil Marshall |
