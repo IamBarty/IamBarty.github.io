@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mon Top Album du Moi
+title: z - Mon Top Album
 
 ---
     
