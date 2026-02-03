@@ -7,7 +7,7 @@ title: Mon festival de Gérardmer 2026
 	
 ---
 
-| No | Film | Réalisateur(s) | Année de sortie | Commentaires |
+| No | Film | Réalisateur(s) |
 | --- | --- | --- | --- | --- |
 | 1 | Alter Ego | Nicolas Charlet et Bruno Lavaine |
 | 2 | Send Help | Sam Raimi |
