@@ -1,12 +1,12 @@
 ---
-title: "Quenelles de volaille"
+title: "Quenelles végétariennes"
 image: 
   path: /images/photo-a-venir.png
   thumbnail: /images/photo-a-venir.png
 tags:
   - Plat
 ---
-Quenelles de volaille
+Quenelles végétariennes
 
 ## Ingrédients
 
