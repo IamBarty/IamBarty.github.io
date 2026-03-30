@@ -7,9 +7,9 @@ tags:
   - Dessert
 ---
 
-## Ingrédients
+## Ingrédients :
 
-Pour 10 personnes – 2h de préparation
+	* Pour 10 personnes – 2h de préparation
 
 * Pour le yuzu curd :
     * 75 g de jus de yuzu (ou de jus de citron jaune)
