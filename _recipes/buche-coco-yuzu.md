@@ -7,9 +7,9 @@ tags:
   - Dessert
 ---
 
-## Ingrédients :
+## Ingrédients
 
-	* Pour 10 personnes – 2h de préparation
+Pour 10 personnes – 2h de préparation
 
 * Pour le yuzu curd :
     * 75 g de jus de yuzu (ou de jus de citron jaune)
@@ -35,7 +35,7 @@ Pour la mousse coco :
     * 30 g d’eau
     * 200 g de crème fleurette entière montée en chantilly
 	
-## matériel nécessaire :
+## matériel nécessaire
 
 	* Un moule à bûche
     * Un moule à insert
