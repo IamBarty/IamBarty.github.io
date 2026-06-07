@@ -35,7 +35,7 @@ Pour la mousse coco :
     * 30 g d’eau
     * 200 g de crème fleurette entière montée en chantilly
 	
-## matériel nécessaire :
+## matériel nécessaire
 
 	* Un moule à bûche
     * Un moule à insert
