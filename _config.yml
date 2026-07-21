@@ -83,9 +83,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  tops:
-    output: true
-    permalink: /:collection/:path/
+ # tops:
+ #  output: true
+#  permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
