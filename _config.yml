@@ -71,7 +71,7 @@ category_archive_path: "/categories/#"
 #   - vendor/ruby/
 
 plugins:
-  - jekyll-seo-tag
+ # - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-paginate
@@ -83,9 +83,9 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  tops:
-    output: true
-    permalink: /:collection/:path/
+ # tops:
+ #  output: true
+#  permalink: /:collection/:path/
 
 # Front Matter Defaults
 defaults:
@@ -106,18 +106,18 @@ defaults:
       comments: false
       share: false
   # Top defaults
-  - scope:
-      path: "_tops"
-      type: tops
-    values:
-      layout: page
-      comments: false
-      share: false
+  #- scope:
+ #     path: "_tops"
+  #    type: tops
+  #  values:
+  #    layout: page
+  #    comments: false
+  #    share: false
 
 # Site Author
 author:
-  name: Baptiste Lecornu
-  picture: /images/baptiste-lecornu-photo.jpg
+  name: ElDiablo
+  picture: /images/toto-photo.jpg
   links: false
 #    - title: Twitter
 #      url: https://twitter.com/mmistakes
